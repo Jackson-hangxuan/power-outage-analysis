@@ -44,7 +44,7 @@ Data cleaning was a critical step to ensure the accuracy and reliability of the 
 
 ### Aggregated Table of Intentional Attack vs Year in Washington State
 |   YEAR |   Intentional Attack Count |
-|-------:|---------------------------:|
+|------- |--------------------------- |
 |   2011 |                         29 |
 |   2012 |                         23 |
 |   2013 |                          4 |
