@@ -43,14 +43,14 @@ Data cleaning was a critical step to ensure the accuracy and reliability of the 
 ></iframe>
 
 ### Aggregated Table of Intentional Attack vs Year in Washington State
-|   YEAR |   Intentional Attack Count |
-|------- |--------------------------- |
-|   2011 |                         29 |
-|   2012 |                         23 |
-|   2013 |                          4 |
-|   2014 |                          2 |
-|   2015 |                          1 |
-|   2016 |                          5 |
+|   YEAR |   Intentional Attack Count |<br>
+|------- |--------------------------- |<br>
+|   2011 |                         29 |<br>
+|   2012 |                         23 |<br>
+|   2013 |                          4 |<br>
+|   2014 |                          2 |<br>
+|   2015 |                          1 |<br>
+|   2016 |                          5 |<br>
 
 ## Step 3: Prediction Problem
 The prediction problem is a **regression task**, aiming to predict the **annual frequency of major outages**.
