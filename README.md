@@ -26,13 +26,31 @@ This question is critical for mitigating the socioeconomic impact of outages cau
 ### Data Cleaning Steps
 Data cleaning was a critical step to ensure the accuracy and reliability of the analysis. Below are the steps taken, explained in reference to the data-generating process, and how they affected the analyses:
 
-### Univariate of Outage Cause in Washingtong State
+### Univariate of Outage Cause in Washington State
 <iframe
   src="washington.html"
   width="800"
   height="600"
   frameborder="0"
 ></iframe>
+
+### Bivariate Scatter of Intentional Attack vs Year in Washington State
+<iframe
+  src="Bivar.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
+### Aggregated Table of Intentional Attack vs Year in Washington State
+|   YEAR |   Intentional Attack Count |
+|-------:|---------------------------:|
+|   2011 |                         29 |
+|   2012 |                         23 |
+|   2013 |                          4 |
+|   2014 |                          2 |
+|   2015 |                          1 |
+|   2016 |                          5 |
 
 ## Step 3: Prediction Problem
 The prediction problem is a **regression task**, aiming to predict the **annual frequency of major outages**.
