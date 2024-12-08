@@ -20,6 +20,20 @@ This question is critical for mitigating the socioeconomic impact of outages cau
 
 ---
 
+
+## Step 2: Data Cleaning and Exploratory Data Analysis
+
+### Data Cleaning Steps
+Data cleaning was a critical step to ensure the accuracy and reliability of the analysis. Below are the steps taken, explained in reference to the data-generating process, and how they affected the analyses:
+
+### Univariate of Outage Cause in Washingtong State
+<iframe
+  src="washington.html"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+
 ## Step 3: Prediction Problem
 The prediction problem is a **regression task**, aiming to predict the **annual frequency of major outages**.
 
